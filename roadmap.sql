@@ -3,7 +3,7 @@
 --
 -- https://tableplus.com/
 --
--- Database: roadmap
+-- Database: laravel_roadmap_path
 -- Generation Time: 2021-07-23 09:23:02.9240
 -- -------------------------------------------------------------
 
